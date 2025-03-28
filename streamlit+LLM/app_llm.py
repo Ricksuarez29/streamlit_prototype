@@ -14,6 +14,10 @@ import plotly.express as px
 from datetime import datetime
 import base64
 
+
+COHERE_API_KEY = os.getenv("COHERE_API_KEY")
+OCR_API_KEY = os.getenv("OCR_API_KEY")
+
 # Get your Cohere API for the app to work
 with open("cohere.key") as f:
     COHERE_API_KEY = f.read().strip()
