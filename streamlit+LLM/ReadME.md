@@ -1,11 +1,10 @@
-# GlobalLingo 1.0 🚀
-
 <div align="center">
   <img src="logo.png" alt="GlobalLingo Logo" width="400px">
 </div>
 
-**GlobalLingo 1.0** is a Streamlit web app prototype developed as part of my MSc in Business Analytics. This project showcases two main functionalities:
+**🚀GlobalLingo 1.0** is a Streamlit web app prototype developed as part of my MSc in Business Analytics. This project showcases two main functionalities:
 
+🎯
 - **Quiz Practice:**  
   Engage with fill-in-the-blank quizzes where the questions are generated on-demand using a Large Language Model. Practice grammar and tense rules across different topics and difficulties.
 
