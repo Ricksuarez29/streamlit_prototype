@@ -40,6 +40,6 @@ This Python script contains the code for training the Random Forest model and sa
 
 
 ## 📞 Contact
-For any questions or issues, please contact ricardojose.suarez@alumni.esade.edu
+For any questions, please contact ricardojose.suarez@alumni.esade.edu
 
 
