@@ -39,7 +39,7 @@ This Python script contains the code for training the Random Forest model and sa
 3. streamlit run first_app.py
 
 
-### 📞 Contact
+## 📞 Contact
 For any questions or issues, please contact ricardojose.suarez@alumni.esade.edu
 
 
