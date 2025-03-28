@@ -1,10 +1,11 @@
+# Python 3.8+
 streamlit
+cohere
 pandas
-matplotlib
-seaborn
-joblib
+requests
+json
+time
 os
+datetime
+plotly.express
 base64
-altair
-scikit-learn
-numpy
