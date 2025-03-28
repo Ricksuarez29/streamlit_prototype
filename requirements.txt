@@ -1,0 +1,10 @@
+streamlit
+pandas
+matplotlib
+seaborn
+joblib
+os
+base64
+altair
+scikit-learn
+numpy
